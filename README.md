@@ -5,7 +5,7 @@ Readme last updated: 2026-09-23 (September 23, 2026)
 The material is based on work supported by the NASA Space Technology Graduate Research Opportunities Award No. 80NSSC23K1199 titled:
 Autonomous Landing and Proximity Operation Technology for Poorly-Characterized Small Bodies
 
-The scripts in this repository will regenerate the data presented in the journal paper titled:
+The scripts in this repository will regenerate the data for V2.0 of the MPC presented in the journal paper titled:
 Remote Guidance of a Mothership-Daughtership Formation for Asteroid Exploration by Logan Feld, Dr. Shyam Bhaskaran, Dr. Andrew French, Dr. Joshua Lyzhoft, and Dr. Koki Ho
 
 The goal of this work is to enable spacecraft to autonomously navigate the uncertain shape and gravity models around asteroids and other small bodies.
