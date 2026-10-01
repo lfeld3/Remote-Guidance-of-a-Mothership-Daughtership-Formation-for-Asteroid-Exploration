@@ -42,15 +42,11 @@ class Simulation:
                     self.mothership_index = i
 
 
-
-
-
 def main():
     config_file = 'config.ini'
     asteroid = Asteroid(config_file)
     spacecraft = Spacecraft(asteroid, config_file, None, 0)
     simulation = Simulation(asteroid, spacecraft, config_file, None)
-    print(simulation.cost_function_to_use)
     help(Simulation)
 
 
