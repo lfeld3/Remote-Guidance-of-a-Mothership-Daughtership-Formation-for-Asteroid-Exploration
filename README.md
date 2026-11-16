@@ -1,5 +1,5 @@
-
-Readme last updated: 2026-09-23 (September 23, 2026)
+DOI: https://doi.org/10.5281/zenodo.24286853
+Readme last updated: 2026-11-16 (November 16, 2026)
 
 # AsteroidProxOps
 The material is based on work supported by the NASA Space Technology Graduate Research Opportunities Award No. 80NSSC23K1199 titled:
